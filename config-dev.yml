@@ -3,4 +3,4 @@ server:
   po: 8008
 spring:
   application:
-    name: babiq
+    name: babiql
